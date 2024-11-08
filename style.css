@@ -1,0 +1,46 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  width: 70vw;
+  margin: 5vw auto;
+}
+
+p {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+header hr {
+  width: 80%;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-style: normal;
+}
+
+address {
+  line-height: 0.25rem;
+  font-style: normal;
+}
+
+address p {
+  margin-top: 1rem;
+}
+
+.section-title {
+  color: #228b22;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.subsection-title {
+  color: #4169e1;
+  font-size: 1.15rem;
+  margin-bottom: 0.25rem;
+}
